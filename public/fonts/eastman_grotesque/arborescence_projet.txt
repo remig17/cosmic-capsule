@@ -1,0 +1,26 @@
+.
+├── arborescence_projet.txt
+├── Eastman-Grotesque-Black-Italic-trial.otf
+├── Eastman-Grotesque-Black-trial.otf
+├── Eastman-Grotesque-Bold-Italic-trial.otf
+├── Eastman-Grotesque-Bold-trial.otf
+├── Eastman-Grotesque-Demi-Bold-Italic-trial.otf
+├── Eastman-Grotesque-Demi-Bold-trial.otf
+├── Eastman-Grotesque-Extrabold-Italic-trial.otf
+├── Eastman-Grotesque-Extrabold-trial.otf
+├── Eastman-Grotesque-Extralight-Italic-trial.otf
+├── Eastman-Grotesque-Extralight-trial.otf
+├── Eastman-Grotesque-Heavy-Italic-trial.otf
+├── Eastman-Grotesque-Heavy-trial.otf
+├── Eastman-Grotesque-Italic-trial.otf
+├── Eastman-Grotesque-Light-Italic-trial.otf
+├── Eastman-Grotesque-Light-trial.otf
+├── Eastman-Grotesque-Medium-Italic-trial.otf
+├── Eastman-Grotesque-Medium-trial.otf
+├── Eastman-Grotesque-Regular-Offset-Italic-trial.otf
+├── Eastman-Grotesque-Regular-Offset-trial.otf
+├── Eastman-Grotesque-Regular-trial.otf
+├── Eastman-Grotesque-Thin-Italic-trial.otf
+└── Eastman-Grotesque-Thin-trial.otf
+
+0 directories, 23 files

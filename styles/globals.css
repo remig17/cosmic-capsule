@@ -1,3 +1,202 @@
+/* Eastman Grotesque Black Italic */
+@font-face {
+  font-family: "Eastman Grotesque Black Italic";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Black-Italic-trial.otf")
+    format("opentype");
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* Eastman Grotesque Black */
+@font-face {
+  font-family: "Eastman Grotesque Black";
+  src: url("/fonts/eastman_grotesque/Black-trial.otf") format("opentype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Eastman Grotesque Bold Italic */
+@font-face {
+  font-family: "Eastman Grotesque Bold Italic";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Bold-Italic-trial.otf")
+    format("opentype");
+  font-weight: 700;
+  font-style: italic;
+}
+
+/* Eastman Grotesque Bold */
+@font-face {
+  font-family: "Eastman Grotesque Bold";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Bold-trial.otf")
+    format("opentype");
+  font-weight: 700;
+  font-style: normal;
+}
+
+/* Eastman Grotesque Demi-Bold Italic */
+@font-face {
+  font-family: "Eastman Grotesque Demi-Bold Italic";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Demi-Bold-Italic-trial.otf")
+    format("opentype");
+  font-weight: 600;
+  font-style: italic;
+}
+
+/* Eastman Grotesque Demi-Bold */
+@font-face {
+  font-family: "Eastman Grotesque Demi-Bold";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Demi-Bold-trial.otf")
+    format("opentype");
+  font-weight: 600;
+  font-style: normal;
+}
+
+/* Eastman Grotesque Extrabold Italic */
+@font-face {
+  font-family: "Eastman Grotesque Extrabold Italic";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Extrabold-Italic-trial.otf")
+    format("opentype");
+  font-weight: 800;
+  font-style: italic;
+}
+
+/* Eastman Grotesque Extrabold */
+@font-face {
+  font-family: "Eastman Grotesque Extrabold";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Extrabold-trial.otf")
+    format("opentype");
+  font-weight: 800;
+  font-style: normal;
+}
+
+/* Eastman Grotesque Extralight Italic */
+@font-face {
+  font-family: "Eastman Grotesque Extralight Italic";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Extralight-Italic-trial.otf")
+    format("opentype");
+  font-weight: 200;
+  font-style: italic;
+}
+
+/* Eastman Grotesque Extralight */
+@font-face {
+  font-family: "Eastman Grotesque Extralight";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Extralight-trial.otf")
+    format("opentype");
+  font-weight: 200;
+  font-style: normal;
+}
+
+/* Eastman Grotesque Heavy Italic */
+@font-face {
+  font-family: "Eastman Grotesque Heavy Italic";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Heavy-Italic-trial.otf")
+    format("opentype");
+  font-weight: 900;
+  font-style: italic;
+}
+
+/* Eastman Grotesque Heavy */
+@font-face {
+  font-family: "Eastman Grotesque Heavy";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Heavy-trial.otf")
+    format("opentype");
+  font-weight: 900;
+  font-style: normal;
+}
+
+/* Eastman Grotesque Italic */
+@font-face {
+  font-family: "Eastman Grotesque Italic";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Italic-trial.otf")
+    format("opentype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Eastman Grotesque Light Italic */
+@font-face {
+  font-family: "Eastman Grotesque Light Italic";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Light-Italic-trial.otf")
+    format("opentype");
+  font-weight: 300;
+  font-style: italic;
+}
+
+/* Eastman Grotesque Light */
+@font-face {
+  font-family: "Eastman Grotesque Light";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Light-trial.otf")
+    format("opentype");
+  font-weight: 300;
+  font-style: normal;
+}
+
+/* Eastman Grotesque Medium Italic */
+@font-face {
+  font-family: "Eastman Grotesque Medium Italic";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Medium-Italic-trial.otf")
+    format("opentype");
+  font-weight: 500;
+  font-style: italic;
+}
+
+/* Eastman Grotesque Medium */
+@font-face {
+  font-family: "Eastman Grotesque Medium";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Medium-trial.otf")
+    format("opentype");
+  font-weight: 500;
+  font-style: normal;
+}
+
+/* Eastman Grotesque Regular Offset Italic */
+@font-face {
+  font-family: "Eastman Grotesque Regular Offset Italic";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Regular-Offset-Italic-trial.otf")
+    format("opentype");
+  font-weight: normal;
+  font-style: italic;
+}
+
+/* Eastman Grotesque Regular Offset */
+@font-face {
+  font-family: "Eastman Grotesque Regular Offset";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Regular-Offset-trial.otf")
+    format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Eastman Grotesque Regular */
+@font-face {
+  font-family: "Eastman Grotesque Regular";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Regular-trial.otf")
+    format("opentype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+/* Eastman Grotesque Thin Italic */
+@font-face {
+  font-family: "Eastman Grotesque Thin Italic";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Thin-Italic-trial.otf")
+    format("opentype");
+  font-weight: 100;
+  font-style: italic;
+}
+
+/* Eastman Grotesque Thin */
+@font-face {
+  font-family: "Eastman Grotesque Thin";
+  src: url("/fonts/eastman_grotesque/Eastman-Grotesque-Thin-trial.otf")
+    format("opentype");
+  font-weight: 100;
+  font-style: normal;
+}
+
+/* Vos styles personnalisés peuvent aller ici */
+
 body {
   padding: 0;
   margin: 0;
